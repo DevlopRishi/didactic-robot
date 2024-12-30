@@ -1,4 +1,3 @@
-
 # Greyscale Image Colorizer
 
 A simple React application that allows users to colorize neutral/greyscale/black-and-white images, giving them a more modern and vibrant appearance. The application uses basic image manipulation techniques to simulate the colorization process.
@@ -13,7 +12,7 @@ A simple React application that allows users to colorize neutral/greyscale/black
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DevlopRishi/diblotic-robot
+   git clone https://github.com/DevlopRishi/didactic-robot
    cd image-colorizer
    ```
 
